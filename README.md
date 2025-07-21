@@ -3,9 +3,7 @@ I am passionate about transforming data into meaningful insights and creating ro
 
 🚀 Expertise
 💻 Expert in full-stack web development using React, Node.js, and Express.js
-
 🎨 Proficient in crafting modern, responsive UIs with Tailwind CSS, DaisyUI, HTML5, and CSS3
-
 🔐 Experienced in implementing secure user authentication and authorization using Firebase Auth
 
 🛢️ Skilled in working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases
