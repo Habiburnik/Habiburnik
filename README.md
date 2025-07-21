@@ -2,15 +2,13 @@
 I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 
 🚀 Expertise
-💻 Expert in full-stack web development using React, Node.js, and Express.js
-🎨 Proficient in crafting modern, responsive UIs with Tailwind CSS, DaisyUI, HTML5, and CSS3
-🔐 Experienced in implementing secure user authentication and authorization using Firebase Auth
 
-🛢️ Skilled in working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases
-
-⚙️ Strong understanding of API development, RESTful services, and integrating front-end with back-end
-
-🚀 Familiar with deploying apps on platforms like Netlify, Vercel, and Render
+- 💻 Expert in full-stack web development using React, Node.js, and Express.js
+- 🎨 Proficient in crafting modern, responsive UIs with Tailwind CSS, DaisyUI, HTML5, and CSS3
+- 🔐 Experienced in implementing secure user authentication and authorization using Firebase Auth
+- 🛢️ Skilled in working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases
+- ⚙️ Strong understanding of API development, RESTful services, and integrating front-end with back-end
+- 🚀 Familiar with deploying apps on platforms like Netlify, Vercel, and Render
 
 ### Technology
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
