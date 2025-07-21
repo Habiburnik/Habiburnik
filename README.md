@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! This is Md. Habibur Rahaman</h1>
 I am passionate about transforming data into meaningful insights and creating robust web solutions. With a strong background in database management, data analysis, and web technologies, I bridge the gap between technical complexity and practical innovation.
 
+
 🚀 Expertise
 
 - 💻 Expert in full-stack web development using React, Node.js, and Express.js
@@ -28,7 +29,7 @@ I am passionate about transforming data into meaningful insights and creating ro
 
 ### Status
 
-![akjilani's Stats](https://github-readme-stats.vercel.app/api?username=habiburnik&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Md. Habibur Rahamans's Stats](https://github-readme-stats.vercel.app/api?username=habiburnik&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburnik&layout=compact&theme=radical&langs_count=10&count_private=true&include_all_commits=true&private=true)](https://github.com/habiburnik)
 
